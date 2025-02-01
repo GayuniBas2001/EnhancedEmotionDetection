@@ -1,0 +1,3 @@
+mediapipe
+scikit-fuzzy
+networkx
